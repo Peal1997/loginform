@@ -1,0 +1,104 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	width: 100%;
+		 height: 100vh;
+		 background: -webkit-linear-gradient(left, #7579ff, #b224ef);
+		 font-family: 'Pacifico', cursive;
+}
+.signup{
+	width: 920px;
+	height: 550px;
+	background-color:#fff;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	top: 50%;
+	left: 50%;
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+	box-shadow:18px 12px 21px rgba(0,0,0,0.5) ;
+
+}
+.cont{
+	width: 572px;
+	height: 550px;
+	
+	float: right;
+}
+.image{
+	width: 348px;
+	height: 550px;
+	
+}
+.image img{
+	width: 348px;
+	height:413px;
+	padding: 67px 0px 0px 0px;
+}
+.header{
+	color:#b224ef;
+	padding:14px 230px 0px;
+
+}
+.form{
+	padding: 30px 1px 0px 64px;
+}
+
+.info{
+	padding: 29px 0px 1px 35px;
+	margin-bottom: 15px;
+	border: none;
+	border-bottom: 1px solid #b224ef;
+	outline: none;
+
+}
+.infor{
+	padding: 29px 0px 0px 11px;
+	margin-left: 38px;
+	border: none;
+	border-bottom: 1px solid #b224ef;
+	outline: none;
+}
+.dob{
+color:#b224ef;
+padding: 0px 0px 0px 0px;
+}
+
+.gender{
+color:#b224ef;
+padding: 12px 0px 0px 58px;
+}
+.btn{
+    padding: 9px;
+   margin: 4px 233px;
+   border-radius: 15px;
+   border: none;
+   outline: none;
+   background: -webkit-linear-gradient(left, #7579ff, #b224ef);
+   cursor: pointer;
+   color:white;
+   font-family: 'Pacifico', cursive;
+
+
+}
+.btn:hover{
+	background:-webkit-linear-gradient(left, #b224ef, #7579ff);
+	transition: 800ms ease;
+	font-weight: bold; 
+}
+.other{
+	padding: 0px 0px 0px 63px;
+	margin-top: 15px;
+	margin-bottom: 12px;
+}
+.date{
+	padding: 7px 0px 0px 0px;
+}
+.option{
+	padding: 1px 0px 0px 55px;
+	color:#6fd954;
+	margin-bottom: 15px;
+}
